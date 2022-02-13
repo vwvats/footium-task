@@ -6,7 +6,7 @@ import PositivesNegavtives from "./PositivesNegatives";
 import SubPlayer from "./SubPlayer";
 import { BiChevronDown } from "react-icons/bi";
 import { playerStats } from "../../data/playerStats";
-import playingField from "../../playing-field.png";
+import playingField from "../../assets/playing-field.png";
 
 const Strategy = () => {
   return (
