@@ -1,11 +1,11 @@
 import React from "react";
-import Map from "./components/Map";
+import Strategy from "./components/Strategy";
 import PlayerStats from "./components/PlayerStats";
 
 function App() {
   return (
     <div style={styles.tactics}>
-      <Map />
+      <Strategy />
       <PlayerStats />
     </div>
   );
